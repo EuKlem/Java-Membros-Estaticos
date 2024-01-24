@@ -1,6 +1,6 @@
 # Java-Membros-Estáticos
 
-Dentro das pastas, está localizado uma pasta chamada src, lá está as classes e códigos feitos!
+Dentro das pastas, está localizado uma pasta chamada src, lá estão os códigos feitos!
 
 O projeto chamado "course" é um programa para ler um valor numérico e mostrar quanto seria o valor de uma circunferência e do volume de uma esfera para um raio daquele valor.
 
